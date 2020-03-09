@@ -1,0 +1,7 @@
+this is latest line due to truncate all data is deletedthis is second line added without deleting old data
+waleed
+hamza
+
+this is second line added without deleting old data
+waleed
+hamza
